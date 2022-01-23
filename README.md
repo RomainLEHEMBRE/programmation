@@ -1,2 +1,2 @@
 # programmation
-Voici mes projets.
+Voici les projets que j'ai développé dans le cadre de mes études ou bien personellement.
